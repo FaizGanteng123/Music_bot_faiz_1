@@ -1,7 +1,7 @@
 {
-  "token": "",
+  "token": "ODkwMjUyOTQ4MTI1Mzg4ODUw.YUtGqg.WK67e1aevMT0VSSFUp1wG1e1ivA",
   "prefix": "!",
-  "ksoftapi": "",
+  "ksoftapi": "AIzaSyDnvX4pTSurnG0YLO3ar71-hfyJvFdo1fE",
   
   
   "clientsettings": {
@@ -15,8 +15,8 @@
   },
 
   "spotify": {
-    "clientSecret": "",
-    "clientID": ""
+    "clientSecret": "4eef08dca2eb4b1bbec0771fc1d716a4",
+    "clientID": "cb1d44bb2146446e9487150f67cf8ce9"
   }
 
 }
